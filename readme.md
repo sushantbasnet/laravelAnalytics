@@ -6,3 +6,7 @@
 <p>Use this as a reference to pull data from mysql database and use it as analytics.</p>
 
 <p>Backend Inlcluded</p>
+
+
+<p> Sushant Singh Basnet</p>
+<p>Nepal</p>
